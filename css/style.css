@@ -1,0 +1,27 @@
+body {
+    background-color: azure;
+}
+
+hr {
+    border-style: none none dotted;
+    border-color: lightgray;
+    border-width: medium;
+    height: 2px;
+    width: 10%;
+}
+
+h1 {
+    color: #66bfbf
+}
+
+h2 {
+    color: #66bfaf
+}
+
+h3 {
+    color: #66bfaf
+}
+
+h4 {
+    color: #66bfaf
+}
